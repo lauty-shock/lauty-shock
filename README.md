@@ -19,7 +19,7 @@ Para mi la comunicación y el trabajo en equipo es esencial para poder crecer co
 ---
 
 ### Technical skills:  
-<p align="center">
+<p align="space-around">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" width="40" height="40" />
   <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="40" height="40"/>
