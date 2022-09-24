@@ -29,7 +29,7 @@ Para mi la comunicación y el trabajo en equipo es esencial para poder crecer co
   <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" height="40" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunder-icon.png" width="40" height="40" />
 </p>  
 
 ---  
